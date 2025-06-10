@@ -3,8 +3,11 @@
 **MOM’S CALM CODE** is a beautifully crafted, responsive landing page for an upcoming eBook that empowers mothers to embrace calm, conscious parenting. This project is designed to build anticipation and collect pre-orders directly via WhatsApp.
 
 ## 🌟 Live Demo
-> We are live on 
+> We are live on
+'''
 
+https://calmcodeebook.netlify.app/ 
+'''
 ---
 
 ## 📖 About the Book
@@ -37,5 +40,5 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/
+git clone [https://github.com.Obed-Ojingwa/Calm-Code-Ebook](https://github.com/Obed-Ojingwa/Calm-Code-Ebook)
 cd moms-calm-code
