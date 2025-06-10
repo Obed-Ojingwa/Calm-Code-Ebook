@@ -40,5 +40,5 @@ https://calmcodeebook.netlify.app/
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com.Obed-Ojingwa/Calm-Code-Ebook](https://github.com/Obed-Ojingwa/Calm-Code-Ebook)
+git clone https://github.com.Obed-Ojingwa/Calm-Code-Ebook
 cd moms-calm-code
